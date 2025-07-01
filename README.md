@@ -1,2 +1,2 @@
-# fifo_verification
-Simple FIFO implementation and verification in SystemVerilog
+# fifo_UVM
+UVM-based verification environment for a synchronous FIFO implemented in SystemVerilog. Includes transaction generation, driver, monitor, scoreboard, and test sequences.
